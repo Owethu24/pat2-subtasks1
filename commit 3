@@ -1,0 +1,3 @@
+# edit main.cpp
+git add main.cpp
+git commit -m "feat: improve decimalToBinary formatting and handle negatives" -m "Support optional width and trimmed output; negative values either two's complement (with width) or sign-prefixed when trimmed."
