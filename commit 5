@@ -1,0 +1,2 @@
+git add conversions.h conversions.cpp main.cpp README.md
+git commit -m "refactor: split converters into header + add README" -m "Move conversion utilities into conversions.{h,cpp}; add README and optional Makefile for easier building."
