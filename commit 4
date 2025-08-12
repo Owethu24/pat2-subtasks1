@@ -1,0 +1,3 @@
+# edit main.cpp
+git add main.cpp
+git commit -m "test: add demo tests & automated conversions run mode" -m "Add runDemoTests() that executes example conversions and prints expected vs actual outputs for quick verification."
