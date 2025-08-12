@@ -1,0 +1,2 @@
+git add main.cpp
+git commit -m "init: add number-conversion program" -m "Add CLI app supporting decimal/binary/hex conversions and a demo option."
