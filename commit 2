@@ -1,0 +1,3 @@
+# edit main.cpp
+git add main.cpp
+git commit -m "fix: validate user input & avoid exceptions in conversion funcs" -m "Validate binary/hex inputs before conversion and return error indicator instead of printing inside utility functions."
